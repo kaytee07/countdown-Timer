@@ -42,3 +42,35 @@ body {
   text-align: center;
   margin-top: 10px;
 }
+
+.set__timer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.date {
+  height: 50px;
+  width: 200px;
+  margin: 0 20px;
+  background-color: #000;
+  color: #fff;
+  border: 1px dotted #fff;
+  padding-left: 10px;
+}
+.time {
+  height: 50px;
+  width: 200px;
+  margin: 0 20px;
+  background-color: #000;
+  color: #fff;
+  border: 1px dotted #fff;
+  padding-left: 10px;
+}
+.set__timer button {
+  height: 50px;
+  width: 130px;
+  border: 1px dotted #fff;
+  background-color: #000;
+  color: #fff;
+  border: 1px dotted #fff;
+}
